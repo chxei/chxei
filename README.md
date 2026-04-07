@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning java/spring/bash
-- 👯 I’m looking to collaborate on java projects
-- 💬 Ask me about anything, I'm open for jobs
+- 🌱 I’m currently learning Java/Spring/Bash
+- 👯 I’m looking to collaborate on Java projects
+- 💬 Ask me about anything, I'm open to jobs
 - 📫 How to reach me: via email, davitchkheidze@outlook.com 
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
