@@ -4,9 +4,6 @@
 - 👯 I’m looking to collaborate on java projects
 - 💬 Ask me about anything, I'm open for jobs
 - 📫 How to reach me: via email, davitchkheidze@outlook.com 
-
-[![chxei's GitHub stats](https://github-readme-stats.vercel.app/api?username=chxei)](https://github.com/anuraghazra/github-readme-stats)
-
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chxei&count_private=true&show_icons=true&theme=gruvbox" />
