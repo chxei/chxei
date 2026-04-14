@@ -7,17 +7,21 @@
  
 <picture>
   <source srcset="https://github-readme-stats-nine-omega-58.vercel.app/api?username=chxei&count_private=true&show_icons=true&theme=gruvbox&theme=dark" 
-          media="(prefers-color-scheme: dark)"/>
+          media="(prefers-color-scheme: dark)"
+   />
  <source srcset="https://github-readme-stats-nine-omega-58.vercel.app/api?username=chxei&count_private=true&show_icons=true&theme=gruvbox" 
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
  <img src="https://github-readme-stats-nine-omega-58.vercel.app/api?username=chxei&count_private=true&show_icons=true&theme=gruvbox" />
 </picture>
 
 
 <picture>
   <source srcset="https://github-readme-stats-nine-omega-58.vercel.app/api/top-langs/?username=chxei&layout=compact&count_private=true&show_icons=true&theme=gruvbox&theme=dark" 
-          media="(prefers-color-scheme: dark)"/>
+          media="(prefers-color-scheme: dark)"
+   />
  <source srcset="https://github-readme-stats-nine-omega-58.vercel.app/api/top-langs/?username=chxei&layout=compact&count_private=true&show_icons=true&theme=gruvbox" 
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
  <img src="https://github-readme-stats-nine-omega-58.vercel.app/api/top-langs/?username=chxei&layout=compact&count_private=true&show_icons=true&theme=gruvbox" />
 </picture>
