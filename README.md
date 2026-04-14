@@ -5,14 +5,9 @@
 - 💬 Ask me about anything, I'm open to jobs
 - 📫 How to reach me: via email, davitchkheidze@outlook.com 
  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-nine-omega-58.vercel.app/api?username=chxei&count_private=true&show_icons=true&theme=gruvbox" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats-nine-omega-58.vercel.app/api/top-langs/?username=chxei&layout=compact&count_private=true&show_icons=true&theme=gruvbox" />
-</a>
-
-<!-- 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes) -->
+<picture>
+  <source srcset="https://github-readme-stats-nine-omega-58.vercel.app/api?username=chxei&count_private=true&show_icons=true&theme=gruvbox" 
+          media="(prefers-color-scheme: dark)"/>
+  <source srcset="https://github-readme-stats-nine-omega-58.vercel.app/api/top-langs/?username=chxei&layout=compact&count_private=true&show_icons=true&theme=gruvbox" 
+          media="(prefers-color-scheme: dark)"/>
+</picture>
