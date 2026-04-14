@@ -5,7 +5,7 @@
 - 💬 Ask me about anything, I'm open to jobs
 - 📫 How to reach me: via email, davitchkheidze@outlook.com 
  
-<picture>
+<!-- <picture>
   <source srcset="https://github-readme-stats-nine-omega-58.vercel.app/api?username=chxei&count_private=true&show_icons=true&theme=gruvbox&theme=dark" 
           media="(prefers-color-scheme: dark)"
    />
@@ -24,4 +24,12 @@
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
  <img src="https://github-readme-stats-nine-omega-58.vercel.app/api/top-langs/?username=chxei&layout=compact&count_private=true&show_icons=true&theme=gruvbox" />
-</picture>
+</picture> -->
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-nine-omega-58.vercel.app/api?username=chxei&count_private=true&show_icons=true&theme=gruvbox" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats-nine-omega-58.vercel.app/api/top-langs/?username=chxei&layout=compact&count_private=true&show_icons=true&theme=gruvbox" />
+</a>
