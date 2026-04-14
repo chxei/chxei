@@ -6,10 +6,10 @@
 - 📫 How to reach me: via email, davitchkheidze@outlook.com 
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chxei&count_private=true&show_icons=true&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats-nine-omega-58.vercel.app/api?username=chxei&count_private=true&show_icons=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chxei&layout=compact&count_private=true&show_icons=true&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats-nine-omega-58.vercel.app/api/top-langs/?username=chxei&layout=compact&count_private=true&show_icons=true&theme=gruvbox" />
 </a>
 
 <!-- 
